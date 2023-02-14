@@ -1,0 +1,5 @@
+build --cxxopt="--std=c++17"
+
+#build --compilation_mode=opt
+#build --copt -g
+#build --strip="never"
